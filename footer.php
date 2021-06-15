@@ -2,71 +2,59 @@
         <div class="container">
             <div class="row">
                 <div class="col-6 col-md-3">
+                    <h4>PRODUCT</h4>
+                    <ul class="footer-links">
+                        <li><a href="incumsa-45-sugar.php">Icumsa 45 Refined Sugar</a></li>
+                        <li><a href="sun-flower-oil.php">Refined Sunflower Oil</a></li>
+                        <li><a href="frozen-chicken-parts.php">Frozen Chicken Parts</a></li>
+                        <li><a href="white-rice-percent.php">White Rice 5% Broken</a></li>
+                        <li><a href="frozen-beef-parts.php">Frozen Beef Parts</a></li>
+                        <li><a href="corn-oil.php">Refined Corn Oil</a></li>
+                        <li><a href="soybeans-meal.php">Soybeans Meal</a></li>
+                        <li><a href="jamine-rice.php">Jamine Rice</a></li>
+                        <li><a href="soybeans.php">Soybeans</a></li>
+
+                    </ul>
+                </div>
+
+
+                <div class="col-6 col-md-3">
+                    <h4>CONTACT </h4>
+                    <ul class="footer-links">
+                        <li><i class="fa fa-map-marker" aria-hidden="true"></i><a>Av. da Liberdade, 120 – Liberdade, São Paulo – SP, 01502-000, Brazil.</a></li>
+                        <li><i class="fa fa-envelope" aria-hidden="true"></i><a >sale@integreencomercio.com</a></li>
+                        <li><i class="fa fa-phone" aria-hidden="true"></i><a > +55 41 4042-3593 <br>+55 41 4042-3593 </a></li>
+
+                    </ul>
+
+                </div>
+                <div class="col-6 col-md-3">
                     <h4>Help</h4>
                     <ul class="footer-links">
-                        <li><a href="owlinfo/shipping.html">Shipping</a></li>
-                        <li><a href="owlinfo/returns.html">Returns</a></li>
-                        <li><a href="contact.html">contact</a></li>
+                        <li><a href="index.php">HOME</a></li>
+                        <li><a href="about.php">ABOUT US</a></li>
+                        <li><a href="contact.php">CONTACT</a></li>
+                        <li><a href="request.php">REQUEST A QUOTE</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md-3">
-                    <h4>Account</h4>
-                    <ul class="footer-links">
-                        <li><a href="login.php">Login</a></li>
-                        <li><a href="owlinfo/order.html">Order Status</a></li>
-                    </ul>
+                    <h4>InterGreen </h4>
+
+                        <a href="index.php" class="custom-logo-link" rel="home"><img width="80px" height="80px" src="wp-content/uploads/2020/09/home-logo.png" class="custom-logo" alt="logo" /></a>
+
+
                 </div>
-                <div class="col-6 col-md-3">
-                    <h4>Come to us </h4>
-                    <ul class="footer-links">
-                        <li><a href="contact.html">Contact</a></li>
-                        <li><a href="contact.html">Email</a></li>
-                    </ul>
-                    <h4>Doing Business Together </h4>
-                    <ul class="footer-links">
-                        <li><a href="owlinfo/buying.html">Buying Guns Online</a></li>
-                        <li><a href="user-registration.php">Sign up to receive Promotion Coupon</a></li>
-                    </ul>
-                </div>
-                <div class="col">
-                    <footer id="footerpad">
-                        <div class="container">
-                            <div class="row" style="margin-top: -4em;">
-                                <div class="col-md-6 col-lg-8 mx-auto">
-                                    <ul class="list-inline text-center">
-                                        
-                                        <li class="list-inline-item"><a href="https://web.facebook.com/Owlsteel/"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></a></li>
-                                    </ul><p class="copyright text-muted text-center">Copyright &copy; Your Company 2020 |</p></div>
-                            </div>
-                        </div>
-                    </footer>
-                </div>
-                <h1 class="logo" style="margin-top:30px;"></h1>
-            </div>
-            <p class="shake animated">SHOP GUNS WITH NI SERIAL NUMBER&nbsp; &nbsp;THIS PAGE&nbsp; IS PASSKEY PROTECTED YOU WOULD HAVE TO REQUEST PASS&nbsp; &nbsp;&nbsp;<a href="requestPK.html" style="color: red;">HERE</a></p>
             <hr>
             <div class="footer-legal">
-                <div class="float-md-right region"><a href="#"><img src="assets/img/united-states-flag.png">United States</a></div>
-                <div class="d-inline-block copyright">
-                    <p class="d-inline-block">Copyright © 2020. All rights reserved.<br></p>
-                </div>
+                <div class="float-md-right region">
+
                 <div class="d-inline-block legal-links">
-                    <div class="d-inline-block item">
-                        <h5>Privacy Policy</h5>
-                    </div>
-                    <div class="d-inline-block item">
-                        <h5>Terms of Use</h5>
-                    </div>
-                    <div class="d-inline-block item">
-                        <h5>Legal</h5>
-                    </div>
-                    <div class="d-inline-block item">
-                        <h5>License</h5>
-                    </div>
+                    ©   1998 - 2021 Intergreen Comércio Exportação E Importação Ltd. All rights reserved.
                 </div>
             </div>
         </div>
     </footer>
+
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/bs-init.js"></script>
