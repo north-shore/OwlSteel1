@@ -58,7 +58,7 @@
 }
 
 body {
-  background: white;
+  background-image: url("../../assets/img/Screenshot.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: auto;

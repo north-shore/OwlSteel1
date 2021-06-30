@@ -35,7 +35,7 @@ if (! empty($_POST["login-btn"])) {
 	<div class="phppot-container">
 		<div class="sign-up-container">
 			<div class="login-signup">
-				<a href="user-registration.php"  style="font-family:Quicksand, sans-serif;">Sign up</a>
+				<a href="user-user-registration.php"  style="font-family:Quicksand, sans-serif;">Sign up</a>
 			</div>
 			<div class="signup-align">
 				<form name="login" style="font-family:Quicksand, sans-serif;background-color:rgba(44,40,52,0.73);width:320px;padding:40px;" action="" method="post"
@@ -70,8 +70,7 @@ if (! empty($_POST["login-btn"])) {
 							id="login-btn" value="Login" style="width:100%;margin-bottom:10px;background-color:rgb(106,176,209);" type="button">Login</button><a id="linkas" style="font-size:12px;margin:auto;margin-left:0;margin-right:0;margin-bottom:0;margin-top:0;padding-left:0;padding-right:0;color:rgb(177,151,70);"
             href="#">Forgot your e mail or password?</a>
 		</form>
-                <button class="btn btn-light" name="login-btn"
-                        style="width:100%;margin-bottom:10px;background-color:darkred;" type="button"><a href="index.php">HOME</a> </button>
+					
 			
 			</div>
 		</div>
